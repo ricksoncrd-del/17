@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Church Events",
+    "emoji": "🎉",
+    "color": "#c9a84c",
+    "cover": "https://images.unsplash.com/photo-1509023464722-18d996393ca8?w=800&q=80",
+    "description": "Moments from our worship services, celebrations, and special church gatherings.",
+    "photos": [
+      { "src": "https://images.unsplash.com/photo-1509023464722-18d996393ca8?w=800&q=80", "caption": "Sunday Worship" },
+      { "src": "https://images.unsplash.com/photo-1544427920-c49ccfb85579?w=800&q=80",   "caption": "Prayer Night" },
+      { "src": "https://images.unsplash.com/photo-1519683109079-d5f539e1542f?w=800&q=80", "caption": "Fellowship" },
+      { "src": "https://images.unsplash.com/photo-1565120319398-da008925fc6f?w=800&q=80", "caption": "Church Gathering" }
+    ]
+  },
+  {
+    "name": "Youth Ministry",
+    "emoji": "🔥",
+    "color": "#81c784",
+    "cover": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+    "description": "Youth nights, camps, and discipleship moments shaping the next generation.",
+    "photos": [
+      { "src": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80", "caption": "Youth Night" },
+      { "src": "https://images.unsplash.com/photo-1526976668912-1a811878dd37?w=800&q=80", "caption": "Youth Camp" },
+      { "src": "https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?w=800&q=80", "caption": "Bible Study" },
+      { "src": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=800&q=80", "caption": "Praise & Worship" }
+    ]
+  },
+  {
+    "name": "Outreach & Missions",
+    "emoji": "🌏",
+    "color": "#f48fb1",
+    "cover": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "description": "Our heart for the lost — outreach programs, feeding missions, and community service.",
+    "photos": [
+      { "src": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80", "caption": "Community Outreach" },
+      { "src": "https://images.unsplash.com/photo-1509099836639-18ba1795216d?w=800&q=80", "caption": "Feeding Program" },
+      { "src": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&q=80", "caption": "Missions Work" },
+      { "src": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&q=80", "caption": "Serving the Community" }
+    ]
+  },
+  {
+    "name": "School Life",
+    "emoji": "🎒",
+    "color": "#b39ddb",
+    "cover": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800&q=80",
+    "description": "Snapshots from Harvester Christian Academy — classrooms, programs, and school events.",
+    "photos": [
+      { "src": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800&q=80", "caption": "Academy Campus" },
+      { "src": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80", "caption": "Classroom" },
+      { "src": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&q=80", "caption": "School Event" },
+      { "src": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=800&q=80", "caption": "Bible Class" }
+    ]
+  }
+]
